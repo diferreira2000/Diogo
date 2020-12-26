@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Functions.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Ide.h
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Ide.h
+Structs.h
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Structs.h
+Functions.h
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Functions.h
+stdbool.h
+-
+
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Functions.h
+Structs.h
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Structs.h
+stdbool.h
+-
+
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Ide.h
+Structs.h
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Structs.h
+
+C:/Users/asus/CLionProjects/ProjetoFinal_2ano/Structs.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
